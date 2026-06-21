@@ -41,21 +41,7 @@ Feel free to reach out or explore my work across these platforms:
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashibista&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rashi's GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rashibista&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashibista&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rashibista&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
