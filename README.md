@@ -1,8 +1,13 @@
-# 💫 About Me
+<div align="center">
+<div align="center">
 
-I am a Software Engineering student deeply passionate about **AI/ML**, **mobile application development**, and **algorithmic problem-solving**. I thrive on acquiring new knowledge and translating complex ideas into functional, real-world applications.
+# Hey Everyone, I'm Rashi Bista
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=7EF29A&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Android+Developer" alt="Typing SVG" />
+
+</div>
+</div>
+
 
 ## 🌐 Connect With Me
 
@@ -45,3 +50,7 @@ Feel free to reach out or explore my work across these platforms:
 ---
   </a>
 </p>
+
+## Contribution Graph
+
+[![Rashi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RashiBista&theme=tokyo-night&hide_border=true)](https://github.com/RashiBista)
