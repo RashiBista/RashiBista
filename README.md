@@ -9,7 +9,7 @@
 </div>
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 Feel free to reach out or explore my work across these platforms:
 
@@ -51,6 +51,9 @@ Feel free to reach out or explore my work across these platforms:
   </a>
 </p>
 
-## Contribution Graph
 
-[![Rashi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RashiBista&theme=tokyo-night&hide_border=true)](https://github.com/RashiBista)
+###  Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashiBista&theme=github-dark&bg_color=0d1117&color=3fb950&line=3fb950&point=238636&area=true&hide_border=true" alt="Rashi's Activity Graph" />
+</p>
