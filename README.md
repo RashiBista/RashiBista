@@ -20,8 +20,4 @@ Feel free to reach out or explore my work across these platforms:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=quora&logoColor=white)](https://quora.com/profile/Rashi)
 
 
-###  Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashiBista&theme=github-dark&bg_color=0d1117&color=3fb950&line=3fb950&point=238636&area=true&hide_border=true" alt="Rashi's Activity Graph" />
-</p>
